@@ -69,12 +69,12 @@
     }
 
     .product_contant {
-        justify-content: space-around;
+        justify-content: center;
         flex-wrap: wrap;
     }
 
     .product_box {
-        margin-bottom: 30px;
+        margin: 0 10px 30px 10px;
     }
 
     .slick_btn_partners.slick-prev::before,

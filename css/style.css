@@ -530,7 +530,6 @@ body{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-
 } 
 
 .container_product_description {
@@ -561,6 +560,7 @@ body{
     max-width: 1425px;
     width: 100%;
     z-index: 100;
+    flex-wrap: wrap;
 }
 
 .product_box {
