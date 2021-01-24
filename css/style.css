@@ -860,4 +860,28 @@ body{
 
 #animatedModal {
     display: none;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #e6362c;
+}
+
+.modal_form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.modal_form input {
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border: 1px solid #e6362c;
+    border-radius: 5px;
+    padding: 5px 10px;
+    
+
+}
+
+.modal_form_sub {
+    background: #e6362c;
+    color: #ffffff;
 }
