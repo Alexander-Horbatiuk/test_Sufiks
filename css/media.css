@@ -145,6 +145,7 @@
         align-items: center;
         position: absolute;
         right: 10px;
+        z-index: 100;
     }
 
     .header_box_menu {
